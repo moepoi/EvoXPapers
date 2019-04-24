@@ -1,0 +1,40 @@
+{
+   "Categories":[
+      {
+         "name":"Light"
+      },
+      {
+         "name":"Dark"
+      }
+   ],
+   "Wallpapers":[
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/LightEvo-wall5.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Light/Evo-wall5.jpg",
+         "name":"RGYB Evolution",
+         "category":"Light"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall6.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall6.jpg",
+         "name":"Lighting Evolution",
+         "category":"Dark"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall7.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall7.jpg",
+         "name":"Gradient Evolution",
+         "category":"Dark"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall8.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall8.jpg",
+         "name":"RGYB Evolution",
+         "category":"Dark"
+      }
+   ]
+}
