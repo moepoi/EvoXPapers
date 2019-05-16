@@ -5,6 +5,18 @@
       },
       {
          "name":"Dark"
+      },
+      {
+         "name":"Geometry"
+      },
+      {
+         "name":"Misc"
+      },
+      {
+         "name":"Scenary"
+      },
+      {
+         "name":"Spaceverse"
       }
    ],
    "Wallpapers":[
@@ -35,6 +47,69 @@
          "thumbUrl":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall8.jpg",
          "name":"RGYB Evolution",
          "category":"Dark"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/evo-planetary.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/evo-planetary.jpg",
+         "name":"Planetary Evolution",
+         "category":"Geometry"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-waves.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-waves.jpg",
+         "name":"Wavey Evolution",
+         "category":"Misc"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-bridge.jpg",
+         "thumURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-bridge.jpg",
+         "name":"Evolution by Bridge",
+         "category":"Scenary"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-flower.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-flower.jpg",
+         "name":"Evolution of Flower",
+         "category":"Scenary"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-scene.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-scene.jpg",
+         "name":"Evolutionary",
+         "category":"Scenary"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-sunset.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-sunset.jpg",
+         "name":"Evolutionary Sunset",
+         "category":"Scenary"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-borange.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-borange.jpg",
+         "name":"Borange Evolution",
+         "category":"Spaceverse"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-moon.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-moon.jpg",
+         "name":"Evolutionary Moon",
+         "category":"Spaceverse"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-space.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-space.jpg",
+         "name":"Galaxy Evolution",
+         "category":"Spaceverse"
       }
    ]
 }
