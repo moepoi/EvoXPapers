@@ -110,6 +110,13 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/evo-space.jpg",
          "name":"Galaxy Evolution",
          "category":"Spaceverse"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-sunrise.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-sunrise.jpg",
+         "name":"Evolutionary Sunrise",
+         "category":"Scenary"
       }
    ]
 }
