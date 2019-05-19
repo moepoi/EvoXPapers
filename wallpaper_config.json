@@ -127,6 +127,27 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-moon-%20starfall.jpg",
          "name":"Evolutionary Shower",
          "category":"Scenary"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraunot-hanging-X.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraunot-hanging-X.jpg",
+         "name":"Spaceman hanging on Evolution",
+         "category":"Spaceman"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraounat-holding-X.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraounat-holding-X.jpg",
+         "name":"Spaceman holding Evolution",
+         "category":"Spaceman"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-earth-view.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-earth-view.jpg",
+         "name":"Earth X",
+         "category":"Spaceman"
       }
    ]
 }
