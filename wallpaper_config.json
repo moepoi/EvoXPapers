@@ -175,6 +175,20 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-some-ssh.jpg",
          "name":"How about some SSH?",
          "category":"Misc"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/Leading%20town8052_rectangle.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/Leading%20town8052_rectangle.jpg",
+         "name":"A leading city",
+         "category":"Scenary"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/On%20the%20road4580_rectangle_20190525183129976.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/On%20the%20road4580_rectangle_20190525183129976.jpg",
+         "name":"On the Road",
+         "category":"Scenary"
       }
    ]
 }
