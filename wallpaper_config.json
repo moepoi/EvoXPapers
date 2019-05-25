@@ -161,6 +161,20 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Flora/Life%20in%20pebbles9496_rectangle.jpg",
          "name":"Evolution of Flora",
          "category":"Flora"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-kola.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-kola.jpg",
+         "name":"Evo Kola",
+         "category":"Misc"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-some-ssh.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-some-ssh.jpg",
+         "name":"How about some SSH ?",
+         "category":"Misc"
       }
    ]
 }
