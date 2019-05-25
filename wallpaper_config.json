@@ -154,6 +154,13 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-earth-view.jpg",
          "name":"Earth X",
          "category":"Spaceman"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Flora/Life%20in%20pebbles9496_rectangle.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Flora/Life%20in%20pebbles9496_rectangle.jpg",
+         "name":"Evolution of Flora",
+         "category":"Flora"
       }
    ]
 }
