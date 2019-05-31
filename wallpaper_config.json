@@ -210,6 +210,13 @@
          "thumbURL":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Light/Evo-X_2.0_Light.png",
          "name":"The Evolution",
          "category":"Light"
+      },
+      {
+         "author":"Lalit",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/EvoX-2.0.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/EvoX-2.0.jpg",
+         "name":"Evolution-X 2.0",
+         "category":"Spaceverse"
       }
    ]
 }
