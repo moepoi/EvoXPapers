@@ -217,6 +217,20 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Spaceverse/EvoX-2.0.jpg",
          "name":"Evolution-X 2.0",
          "category":"Spaceverse"
+      },
+      {
+         "author":"Shen",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/ShapeM%20Dark.png",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/ShapeM%20Dark.png",
+         "name":"Some darks",
+         "category":"Geometry"
+      },
+      {
+         "authour":"Shen",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/ShapeM.png",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/ShapeM.png",
+         "name":"Some lights",
+         "category":"Geometry"
       }
    ]
 }
