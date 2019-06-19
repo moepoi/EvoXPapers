@@ -226,11 +226,32 @@
          "category":"Geometry"
       },
       {
-         "authour":"Shen",
+         "author":"Shen",
          "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/ShapeM.png",
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/ShapeM.png",
          "name":"Some lights",
          "category":"Geometry"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/Minimal%20Desert.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/Minimal%20Desert.jpg",
+         "name":"Minimal Desert",
+         "category":"Scenary"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/Cloud%20Utopia.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/Cloud%20Utopia.jpg",
+         "name":"Cloud Utopia",
+         "category":"Misc"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/SpaceMen.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/SpaceMen.jpg",
+         "name":"Moon X",
+         "category":"Spaceman"
       }
    ]
 }
