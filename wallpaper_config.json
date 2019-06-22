@@ -1,6 +1,9 @@
 {
    "Categories":[
       {
+         "name":"SuperHero"
+      },
+      {
          "name":"Light"
       },
       {
@@ -252,6 +255,20 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/SpaceMen.jpg",
          "name":"Moon X",
          "category":"Spaceman"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SuperHero/PicsArt_06-22-02.46.35.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SuperHero/PicsArt_06-22-02.46.35.jpg",
+         "name":"E-Bat",
+         "category":"SuperHero"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/PicsArt_06-22-02.49.13.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/PicsArt_06-22-02.49.13.jpg",
+         "name":"Particles X",
+         "category":"Misc", "Dark"
       }
    ]
 }
