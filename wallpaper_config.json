@@ -286,6 +286,13 @@
          "thumbURL":"https://data.hackers.moe/EvoXPapers/asuka-thumbnail.jpg",
          "name":"Asuka",
          "category":"Anime"
+      },
+      {
+         "author":"Moepoi",
+         "url":"https://data.hackers.moe/EvoXPapers/mashiro-original.jpg",
+         "thumbURL":"https://data.hackers.moe/EvoXPapers/mashiro-thumbnail.jpg",
+         "name":"Mashiro",
+         "category":"Anime"
       }
    ]
 }
