@@ -279,6 +279,13 @@
          "thumbURL":"https://data.hackers.moe/EvoXPapers/misaki-thumbnail.jpg",
          "name":"Misaki",
          "category":"Anime"
+      },
+      {
+         "author":"Moepoi",
+         "url":"https://data.hackers.moe/EvoXPapers/asuka-original.jpg",
+         "thumbURL":"https://data.hackers.moe/EvoXPapers/asuka-thumbnail.jpg",
+         "name":"Asuka",
+         "category":"Anime"
       }
    ]
 }
