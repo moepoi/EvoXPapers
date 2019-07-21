@@ -293,6 +293,13 @@
          "thumbURL":"https://data.hackers.moe/EvoXPapers/mashiro-thumbnail.jpg",
          "name":"Mashiro",
          "category":"Anime"
+      },
+      {
+         "author":"Moepoi",
+         "url":"https://data.hackers.moe/EvoXPapers/rika-original.jpg",
+         "thumbURL":"https://data.hackers.moe/EvoXPapers/rika-thumbnail.jpg",
+         "name":"Rika",
+         "category":"Anime"
       }
    ]
 }
